@@ -1,0 +1,15 @@
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\bin\Debug\net8.0\generateur_de_table.exe
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\bin\Debug\net8.0\generateur_de_table.deps.json
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\bin\Debug\net8.0\generateur_de_table.runtimeconfig.json
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\bin\Debug\net8.0\generateur_de_table.dll
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\bin\Debug\net8.0\generateur_de_table.pdb
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\generateur_de_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\generateur_de_table.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\generateur_de_table.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\generateur_de_table.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\generateur_de_table.sourcelink.json
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\generateur_de_table.dll
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\refint\generateur_de_table.dll
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\generateur_de_table.pdb
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\generateur_de_table.genruntimeconfig.cache
+C:\Users\Nathan\Desktop\INFORMATIQUE\Table\generateur_de_table\generateur_de_table\obj\Debug\net8.0\ref\generateur_de_table.dll

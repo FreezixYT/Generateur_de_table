@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nathan\\source\\repos\\generateur_de_table\\generateur_de_table\\generateur_de_table.csproj": {}
+    "C:\\Users\\Nathan\\Desktop\\INFORMATIQUE\\Table\\generateur_de_table\\generateur_de_table\\generateur_de_table.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nathan\\source\\repos\\generateur_de_table\\generateur_de_table\\generateur_de_table.csproj": {
+    "C:\\Users\\Nathan\\Desktop\\INFORMATIQUE\\Table\\generateur_de_table\\generateur_de_table\\generateur_de_table.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nathan\\source\\repos\\generateur_de_table\\generateur_de_table\\generateur_de_table.csproj",
+        "projectUniqueName": "C:\\Users\\Nathan\\Desktop\\INFORMATIQUE\\Table\\generateur_de_table\\generateur_de_table\\generateur_de_table.csproj",
         "projectName": "generateur_de_table",
-        "projectPath": "C:\\Users\\Nathan\\source\\repos\\generateur_de_table\\generateur_de_table\\generateur_de_table.csproj",
+        "projectPath": "C:\\Users\\Nathan\\Desktop\\INFORMATIQUE\\Table\\generateur_de_table\\generateur_de_table\\generateur_de_table.csproj",
         "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nathan\\source\\repos\\generateur_de_table\\generateur_de_table\\obj\\",
+        "outputPath": "C:\\Users\\Nathan\\Desktop\\INFORMATIQUE\\Table\\generateur_de_table\\generateur_de_table\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",

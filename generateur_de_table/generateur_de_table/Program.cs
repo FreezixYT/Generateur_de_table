@@ -13,8 +13,9 @@
 
             Console.WriteLine("Combien de table voulez vous genere ?");
             int nbTable = Convert.ToInt32(Console.ReadLine());
-
+            Separation();
             Console.WriteLine("Voici une liste de " + nbTable + " Tables");
+            Separation();
 
             for (int i = 0; i < nbTable; i++)
             {
@@ -31,10 +32,15 @@
                 Console.Write(nombre2);
                 Console.WriteLine();
             }
-
+            Separation();
             Console.WriteLine("Merci d'avoir utiliser Generateur de table !!!");
 
 
+        }
+
+        static void Separation()
+        {
+            Console.WriteLine("----------------------");
         }
 
 
