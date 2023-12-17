@@ -1,0 +1,14 @@
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\bin\Debug\net8.0\Revision_genere_nombre_random.exe
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\bin\Debug\net8.0\Revision_genere_nombre_random.deps.json
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\bin\Debug\net8.0\Revision_genere_nombre_random.runtimeconfig.json
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\bin\Debug\net8.0\Revision_genere_nombre_random.dll
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\bin\Debug\net8.0\Revision_genere_nombre_random.pdb
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\Revision_genere_nombre_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\Revision_genere_nombre_random.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\Revision_genere_nombre_random.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\Revision_genere_nombre_random.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\Revision_genere_nombre_random.dll
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\refint\Revision_genere_nombre_random.dll
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\Revision_genere_nombre_random.pdb
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\Revision_genere_nombre_random.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\Revision_genere_nombre_random\Revision_genere_nombre_random\obj\Debug\net8.0\ref\Revision_genere_nombre_random.dll
