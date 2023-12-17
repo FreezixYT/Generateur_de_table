@@ -30,7 +30,9 @@
                 Console.Write(nombre1);
                 Console.Write(" X ");
                 Console.Write(nombre2);
-                Console.WriteLine();
+                
+                Console.Write(" = ");
+                Console.WriteLine(Calcule(nombre1, nombre2));
             }
             Separation();
             Console.WriteLine("Merci d'avoir utiliser Generateur de table !!!");
@@ -43,6 +45,11 @@
             Console.WriteLine("----------------------");
         }
 
+        static int Calcule(int nombre1 , int nombre2)
+        {
+            return nombre1 * nombre2;
+        }
 
-    }
+
+}
 }
