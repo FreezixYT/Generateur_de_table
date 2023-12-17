@@ -6,28 +6,33 @@
         static void Main(string[] args)
         {
             //fonction 
-            int nombre = 0;
+            int nombre1 = 0;
+            int nombre2 = 0;
 
 
 
             Console.WriteLine("Combien de table voulez vous genere ?");
             int nbTable = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Voici une liste de " + nbTable + " Tables");
+
             for (int i = 0; i < nbTable; i++)
             {
                 //generateur
                 Random rndm = new Random();
-                nombre = rndm.Next(12);
-                Console.ForegroundColor = ConsoleColor.Green;
+                nombre1 = rndm.Next(12);
 
-                Console.WriteLine("Voici une liste de " + nbTable + " Tables");
-                Console.Write(nombre);
+                Random rndm2 = new Random();
+                nombre2 = rndm.Next(12);
+
+
+                Console.Write(nombre1);
                 Console.Write(" X ");
-                Console.Write(nombre);
+                Console.Write(nombre2);
                 Console.WriteLine();
             }
 
-            Console.WriteLine("merci d'avoir utiliser Generateur de table !!!");
+            Console.WriteLine("Merci d'avoir utiliser Generateur de table !!!");
 
 
         }
