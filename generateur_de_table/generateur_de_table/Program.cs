@@ -8,11 +8,19 @@
             //fonction 
             int nombre1 = 0;
             int nombre2 = 0;
-
+            int multipleMin = 0;
+            int multipleMax = 0;
 
 
             Console.WriteLine("Combien de table voulez vous genere ?");
             int nbTable = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Entrer la table minimum");
+            multipleMin = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Entrer la table maximum");
+            multipleMax = Convert.ToInt32(Console.ReadLine());
+
             Separation();
             Console.WriteLine("Voici une liste de " + nbTable + " Tables");
             Separation();
@@ -21,10 +29,10 @@
             {
                 //generateur
                 Random rndm = new Random();
-                nombre1 = rndm.Next(12);
+                nombre1 = rndm.Next(multipleMin , multipleMax + 1);
 
                 Random rndm2 = new Random();
-                nombre2 = rndm.Next(12);
+                nombre2 = rndm.Next(multipleMin, multipleMax + 1);
 
 
                 Console.Write(nombre1);

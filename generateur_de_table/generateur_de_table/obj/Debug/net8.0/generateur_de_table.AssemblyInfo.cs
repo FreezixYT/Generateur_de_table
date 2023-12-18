@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("generateur_de_table")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c593ac9cb09bac264d6266519d72e9b7db8f80ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbbeb57048ae2b6a8ea411d243885c14ff28b406")]
 [assembly: System.Reflection.AssemblyProductAttribute("generateur_de_table")]
 [assembly: System.Reflection.AssemblyTitleAttribute("generateur_de_table")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
